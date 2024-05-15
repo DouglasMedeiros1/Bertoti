@@ -49,3 +49,58 @@ Imagem:
 
 <img src="https://github.com/DouglasMedeiros1/Bertoti/blob/main/Bertoti/IHC%20(Intera%C3%A7%C3%A3o%20Humano%20Computador)/Atividade%2001%20-%2010%20Usability%20Heuristics/imagens/topico03.PNG"/>
 
+<br>
+
+### Tópico 04 - Consistency and Standards
+#### Users should not have to wonder whether different words, situations, or actions mean the same thing. Follow platform and industry conventions.
+
+Site: Siga ( https://siga.cps.sp.gov.br/aluno/home.aspx )
+
+Descrição: 
+No exemplo abaixo, retirado do Siga, há um grave problema no sistema por não apresentar consistencia ou um padrão entre as opções de navegação. Por exemplo, na imagem abaixo, há três opções que não apresentam muita diferença em seus nomes, mas mostram 3 informações diferentes, com dados diferentes e visualizações diferentes.
+Portanto, o sistema se torna mais abstrato e pode dificultar o entendimento do usuário sobre o sistema, forçando-o a re-aprender sobre o sistema.
+
+Imagem:
+
+<img src="https://github.com/DouglasMedeiros1/Bertoti/blob/main/Bertoti/IHC%20(Intera%C3%A7%C3%A3o%20Humano%20Computador)/Atividade%2001%20-%2010%20Usability%20Heuristics/imagens/topico04.PNG"/>
+
+<br>
+
+### Tópico 05 - Error Prevention
+#### Good error messages are important, but the best designs carefully prevent problems from occurring in the first place. Either eliminate error-prone conditions, or check for them and present users with a confirmation option before they commit to the action.
+
+Site: Siga ( https://siga.cps.sp.gov.br/aluno/home.aspx )
+
+Descrição: Na imagem abaixo está presente mais um exemplo de falta da Heuristcs. No exemplo abaixo está presente várias pastas com varias opções que, por qualquer deslize do usuário, acaba por o redirecionar e interromper/ perder o processo que o usuário estava desenvolvendo. Dessa forma o usuário pode se sentir frustado por ter que recomeçar um processo uma vez já inicado.
+
+Imagem:
+
+<img src="https://github.com/DouglasMedeiros1/Bertoti/blob/main/Bertoti/IHC%20(Intera%C3%A7%C3%A3o%20Humano%20Computador)/Atividade%2001%20-%2010%20Usability%20Heuristics/imagens/topico07.PNG"/>
+
+<br>
+
+### Tópico 06 - 
+#### 
+
+Site:  (  )
+
+Descrição: 
+
+Imagem:
+
+<img src=""/>
+
+<br>
+
+### Tópico 07 - 
+#### 
+
+Site:  (  )
+
+Descrição: 
+
+Imagem:
+
+<img src=""/>
+
+<br>
