@@ -75,32 +75,36 @@ Descrição: Na imagem abaixo está presente mais um exemplo de falta da Heurist
 
 Imagem:
 
+<img src="https://github.com/DouglasMedeiros1/Bertoti/blob/main/Bertoti/IHC%20(Intera%C3%A7%C3%A3o%20Humano%20Computador)/Atividade%2001%20-%2010%20Usability%20Heuristics/imagens/topico05.PNG"/>
+
+<br>
+
+### Tópico 06 - Help and Documentation
+#### It’s best if the system doesn’t need any additional explanation. However, it may be necessary to provide documentation to help users understand how to complete their tasks.
+
+Site: Manifesto Agil ( https://agilemanifesto.org/iso/ptbr/manifesto.html )
+
+Descrição: 
+No site do manifesto ágil é possivel analisar que há alguns problemas em sua interface. Além da aparencia do sistema não ser convidativo para o usuário, ele também conta com um erro em relação a decíma Heuristca, já que o sistema não é nem um pouco intuitivo e apresenta uma interface que dificulta o aprendizado por parte do usuário.
+
+
+Imagem:
+
+<img src="https://github.com/DouglasMedeiros1/Bertoti/blob/main/Bertoti/IHC%20(Intera%C3%A7%C3%A3o%20Humano%20Computador)/Atividade%2001%20-%2010%20Usability%20Heuristics/imagens/topico06.png"/>
+
+<br>
+
+### Tópico 07 - Visibility of System Status
+#### The design should always keep users informed about what is going on, through appropriate feedback within a reasonable amount of time.
+
+
+Site: Manifesto Agil ( https://agilemanifesto.org/iso/ptbr/manifesto.html ) 
+
+Descrição: 
+Usando o site do Manifesto ágil novamente é possivel localizar outro erro conforme as heuristcs, sendo ele referente ao status do sistema. Ao acessar o sistema, uma das coisas que mais ocupa espaço e atenção são opções de linguagem que, para o usuário, não fazem nada por não alterarem nada na visão dele. Apesar desses botões alterarem sim algo na pagina, por não ter uma resposta ao usuário, fazem eles parecerem inuties, oque pode fazer o usuário deixar de usar o sistema.
+
+Imagem:
+
 <img src="https://github.com/DouglasMedeiros1/Bertoti/blob/main/Bertoti/IHC%20(Intera%C3%A7%C3%A3o%20Humano%20Computador)/Atividade%2001%20-%2010%20Usability%20Heuristics/imagens/topico07.PNG"/>
-
-<br>
-
-### Tópico 06 - 
-#### 
-
-Site:  (  )
-
-Descrição: 
-
-Imagem:
-
-<img src=""/>
-
-<br>
-
-### Tópico 07 - 
-#### 
-
-Site:  (  )
-
-Descrição: 
-
-Imagem:
-
-<img src=""/>
 
 <br>
