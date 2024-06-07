@@ -13,4 +13,7 @@
 
  Desenvolvimento de um ChatBot no Telegram que possa indentificar a intenção do úsuario, que possa responder o úsuario adequadamente e que utilize alguma função disponibilizada pelo próprio telegram.
 
+
+Link do bot:
+https://colab.research.google.com/github/BrunoFerCam/bertoti/blob/main/botPeixaria.ipynb?pli=1#scrollTo=Jr-ALgO_JaGr
  
